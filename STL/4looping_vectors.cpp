@@ -15,9 +15,9 @@ int main() {
         cout << *(it) << endl;
     }
 
-    // for of loop in cpp
+    // for each loop in cpp
     cout << "for of demo" << endl;
-    for(auto num: v1) {
+    for(auto num : v1) {
         cout << num << endl;
     }
 
