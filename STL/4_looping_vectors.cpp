@@ -23,14 +23,5 @@ int main() {
 
     // note: both it and num are just variable we can use to iterate
 
-    
-
-
-
-
-
-
-
-
     return 0;
 }
