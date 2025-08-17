@@ -2,6 +2,8 @@
 using namespace std;
 
 int main() {
+    // note: vector maintains a singly linked list so it is takes more time complexity when inserting an element to the front.
+
     // creating an empty vector:
     vector <int> v;
 
